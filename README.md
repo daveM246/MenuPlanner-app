@@ -1,4 +1,4 @@
-# Menu Planner
+# Menu Planner - COMING SOON
 
 A Windows desktop app for building a 7-day menu plan against nutrient
 targets. Ingredients carry nutrient values (calories, protein, sodium,
