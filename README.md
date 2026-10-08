@@ -46,8 +46,4 @@ once a week) and shows a notice with a link here if one's available -- it
 never downloads or installs anything on its own. You can also check
 manually any time via **Help → Check for Updates...** inside the app.
 
-## Support
 
-If you find Menu Planner useful, you're welcome to
-[buy me a coffee](https://ko-fi.com/daveM246). Totally optional -- the app
-is free either way.
